@@ -1,7 +1,7 @@
 [submodule "binutils"]
 	path = binutils
-	url = https://sourceware.org/git/binutils-gdb.git
-	branch = binutils-2_40-branch
+	url = https://github.com/Haydelj/arches-binutils.git
+	branch = master
 [submodule "gcc"]
 	path = gcc
 	url = https://gcc.gnu.org/git/gcc.git
